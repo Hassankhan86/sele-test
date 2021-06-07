@@ -1,0 +1,1 @@
+web: python sele-heroku.py
